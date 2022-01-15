@@ -15,7 +15,7 @@ body{
     box-sizing: border-box;
 }
 #cabecera{
-    background-color: #999;
+    background-color: #333;
     height: 80px;
     display: flex;
     align-items: center;
@@ -32,7 +32,7 @@ p{
 }
 #container h2{
     font-size: 19px;
-    color: #333;
+    color: blue;
     font-weight: bolder;
 }
 /* 
