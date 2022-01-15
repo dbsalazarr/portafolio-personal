@@ -4,6 +4,21 @@
 }
 body{
     text-align: center;
-    color:deeppink;
     font-family: "Open Sans", Arial, Helvetica, Sans-serif;
 }
+#container{
+    width: 70%;
+    border: 1px solid rgba(0, 0, 0, .75);
+    margin: 0 auto;
+    text-align: left;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+#container h1{
+    font-size: 20px;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+/* 
+    Agregando un comentario en css
+*/
