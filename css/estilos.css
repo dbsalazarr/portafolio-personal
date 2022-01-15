@@ -4,7 +4,7 @@
 }
 body{
     text-align: center;
-    font-family: "Raleway", Arial, Helvetica, Sans-serif;
+    font-family: "Open Sans", Arial, Helvetica, Sans-serif;
 }
 #container{
     width: 70%;
@@ -41,6 +41,10 @@ p.resalt{
     font-size: 16px;
     color: #B312A8;
 }
-/* 
+.footer{
+    padding: 1.5rem;
+    background-color: deeppink;
+}
+/*
     Agregando un comentario en css
 */
