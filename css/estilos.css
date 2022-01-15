@@ -15,7 +15,7 @@ body{
     box-sizing: border-box;
 }
 #cabecera{
-    background: gold;
+    background: #0f0;
     height: 80px;
     display: flex;
     align-items: center;
