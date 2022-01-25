@@ -6,6 +6,12 @@ body{
     text-align: center;
     font-family: "Open Sans", Arial, Helvetica, Sans-serif;
 }
+.text-center{
+  text-align: center;
+}
+.blanco{
+  color: #fff;
+}
 #container{
     width: 70%;
     border: 1px solid rgba(0, 0, 0, .75);
