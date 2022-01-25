@@ -22,6 +22,12 @@ body{
     margin-bottom: 1.5rem;
     box-shadow: 1px 0px 14px rgba(0,0,0, .75);
 }
+#cabecera .logo{
+    width: 100px;
+    height: 120px;
+    background: url("../imagenes/dragon.png") no-repeat center center/ 90%;
+    margin-right: 20px;
+}
 #container h1{
     font-size: 20px;
     margin-bottom: 1.5rem;
