@@ -6,3 +6,5 @@ Soy un nuevo trabajador que trabajará en su propio emprendimiento
 Además trabajo de Freelancer, haciendo páginas web con diseños que solo en sueños podrias haber imaginado, gaaaaaaaaa
 
 Soy davicitosr y soy el nuevo colaborador del proyecto, espero poder ser de mucha ayuda.
+
+Soy bremdows he hice una modificación desde wsl que tiene ubuntu instalado en mi computadora
