@@ -10,6 +10,7 @@ Este es un portafolio en el que detallaré y prácticare los comandos básicos d
 * Doble personalidad de algunas personas
 * Solucionar conflictos sin caer en pánico
 * Creado por el increible Platzi Team
+* Tiene ejemplos en Mac, Linux y Windows
 
 ## html, css, js
 Son mis principales tecnologias de desarrollo web, claro además de **php** u otros
