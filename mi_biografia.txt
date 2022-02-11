@@ -9,4 +9,4 @@ Soy davicitosr y soy el nuevo colaborador del proyecto, espero poder ser de much
 
 Soy bremdows he hice una modificación desde wsl que tiene ubuntu instalado en mi computadora
 
-Hola soy el jefe malo y ahora gracias a nuestro colaboradores tengo que crear y editar nuevos entornos y también agregarlos a esta biografia
+Quiero dejar en claro que en realidad estoy muy emocionado de aprender muchas cosas, con las que realmente quiero trabajar y deseo ser parte de este maravilloso mundo de la programación
