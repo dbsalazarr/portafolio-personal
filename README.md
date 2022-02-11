@@ -11,6 +11,7 @@ Este es un portafolio en el que detallaré y prácticare los comandos básicos d
 * Solucionar conflictos sin caer en pánico
 * Creado por el increible Platzi Team
 * Tiene ejemplos en Mac, Linux y Windows
+* No hay limite de edad para estudiar con Platzi
 
 ## html, css, js
 Son mis principales tecnologias de desarrollo web, claro además de **php** u otros
