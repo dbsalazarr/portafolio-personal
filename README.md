@@ -9,6 +9,7 @@ Este es un portafolio en el que detallaré y prácticare los comandos básicos d
 * Amor por las buenas prácticas
 * Doble personalidad de algunas personas
 * Solucionar conflictos sin caer en pánico
+* Creado por el increible Platzi Team
 
 ## html, css, js
 Son mis principales tecnologias de desarrollo web, claro además de **php** u otros
