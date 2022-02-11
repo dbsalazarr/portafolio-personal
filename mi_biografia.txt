@@ -11,6 +11,8 @@ Soy bremdows he hice una modificación desde wsl que tiene ubuntu instalado en m
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Master 2
