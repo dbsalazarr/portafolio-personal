@@ -8,3 +8,5 @@ Además trabajo de Freelancer, haciendo páginas web con diseños que solo en su
 Soy davicitosr y soy el nuevo colaborador del proyecto, espero poder ser de mucha ayuda.
 
 Soy bremdows he hice una modificación desde wsl que tiene ubuntu instalado en mi computadora
+
+Quiero dejar en claro que en realidad estoy muy emocionado de aprender muchas cosas, con las que realmente quiero trabajar y deseo ser parte de este maravilloso mundo de la programación
