@@ -8,3 +8,5 @@ Además trabajo de Freelancer, haciendo páginas web con diseños que solo en su
 Soy davicitosr y soy el nuevo colaborador del proyecto, espero poder ser de mucha ayuda.
 
 Soy bremdows he hice una modificación desde wsl que tiene ubuntu instalado en mi computadora
+
+Hola soy el jefe malo y ahora gracias a nuestro colaboradores tengo que crear y editar nuevos entornos y también agregarlos a esta biografia
