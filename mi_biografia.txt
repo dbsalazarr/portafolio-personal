@@ -9,6 +9,8 @@ Soy davicitosr y soy el nuevo colaborador del proyecto, espero poder ser de much
 
 Soy bremdows he hice una modificación desde wsl que tiene ubuntu instalado en mi computadora
 
+Experimento 1
+
 Master 1
 
 Master 2
